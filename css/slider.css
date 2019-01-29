@@ -1,16 +1,12 @@
 .slider {
-	margin: 0 auto;
-	height: 350px;
 	background-color: #E5E5E5;
+	width: 98%;
+	margin: 0 auto;
 }
-.sliderimg {
-	width: 192px;
-	height: 210px;
-	margin-left: 425px;
-}
-.sliderimg img {
+.sliderimg, svg  {
 	width: 401.66px;
 	height: 253.4px;
+	margin: 0 auto;
 }
 .sliderdesc {
 	font-family: Helvetica Neue;
@@ -24,7 +20,7 @@
 	margin: 0 auto;
 }
 .slidername {
-	font-family: Helvetica Neue;
+	font-family: Helvetica Neue, sans-serif;
 	line-height: normal;
 	font-size: 30px;
 	text-align: center;
@@ -32,5 +28,9 @@
 }
 .slidertext {
 	margin: 0 auto;
-	margin-top: 50px;
+	margin-top: 20px;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: black;
 }
