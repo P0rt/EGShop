@@ -17,12 +17,12 @@ html {
 }
 .desc {
 	font-size: 18px;
-	font-color: gray;
+	color: gray;
 }
 .buy {
+	margin-left: 85%;
 	border: 1px solid black;
 	padding: 15px 30px;
-	margin: 87%;
 	text-decoration: none;
 	color: black;
 }
