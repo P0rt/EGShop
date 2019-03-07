@@ -1,0 +1,32 @@
+* {
+	font-family: "Helvetica neue", sans-serif;
+<<<<<<< HEAD
+}
+html {
+	width:100%;
+	height: 100%;
+}
+.lot {
+	border: 1px solid gray;
+	padding: 5px;
+	padding-bottom: 60px;
+	width: 90%;
+	height: 21%;
+}
+.header {
+	font-size: 42px;
+}
+.desc {
+	font-size: 18px;
+	color: gray;
+}
+.buy {
+	margin-left: 85%;
+	border: 1px solid black;
+	padding: 15px 30px;
+	text-decoration: none;
+	color: black;
+}
+=======
+}
+>>>>>>> df2c212c35aa084020cfe9ff1995bb7632f51ca1
