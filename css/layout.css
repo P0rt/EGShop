@@ -1,0 +1,20 @@
+.header {
+    height: 60px;
+    background-color: black;
+    margin-bottom: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.name {
+	font-size: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.links {
+	margin-top: 19px;
+}
+.link {
+	margin: 5px;
+	font-size: 18px;
+}

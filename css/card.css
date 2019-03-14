@@ -1,0 +1,40 @@
+.card {
+  border: 1px solid #E2E2E2;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  border-radius: 5px;
+}
+.cardtext {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.cardname {
+  font-size: 42px;
+}
+.carddesc {
+  font-size: 18px;
+  color: #828282;
+}
+.cardbutton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 276px;
+  height: 87px;
+  border: 1px solid black;
+}
+.cardbuttontext {
+  width: 198px;
+  height: 40px;
+  font-size: 36px;
+  margin-left: 29%;
+}
+.cardprice {
+  font-size: 42px;
+}
+.cardimg {
+  width: 401.66px;
+  height: 253.4px;
+}
